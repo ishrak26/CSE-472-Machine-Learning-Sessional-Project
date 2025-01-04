@@ -10,6 +10,7 @@ This repository contains the implementation of a project focused on segmenting t
 - [Model Architecture](#model-architecture)
 - [Modifications and Enhancements](#modifications-and-enhancements)
 - [Performance Metrics](#performance-metrics)
+- [Resources Used](#resources-used)
 - [Future Work](#future-work)
 - [Acknowledgements](#acknowledgements)
 
@@ -81,6 +82,18 @@ The modifications resulted in significant performance improvements, particularly
 |Our Model      |0.9057411749        |0.88360496       |
 
 ---
+
+## Resources Used
+
+- Platform: Kaggle
+- RAM: 29 GB
+- GPU: Tesla P100
+- VRAM: 16 GB
+
+[Kaggle Notebook Link](https://www.kaggle.com/code/ishrak26/cse472-ml-sessional-project) 
+
+---
+
 <!--
 ## Installation
 
