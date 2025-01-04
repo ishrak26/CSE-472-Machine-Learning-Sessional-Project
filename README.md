@@ -146,7 +146,7 @@ Here are sample outputs from the modified model:
 ## Acknowledgements
 
 - We would like to thank the contributors of the dataset and the open-source libraries that made this project possible.
-- We would also like to express our gratitude for the direction and guidelines from our project supervisor [Dr. Muhammad Masroor Ali].(https://cse.buet.ac.bd/faculty/faculty_detail/mmasroorali)
+- We would also like to express our gratitude for the direction and guidelines from our project supervisor [Dr. Muhammad Masroor Ali](https://cse.buet.ac.bd/faculty/faculty_detail/mmasroorali) sir.
 
 ---
 
